@@ -8,7 +8,7 @@ I'm a front-end web developer with an affinity for design and user experience. I
 
 In my previous career I was a media professional working in the broadcast sector, where I've done thousands of national live shows for Bell Media and CTV. It's been a cool journey, but the tech world is where I'm at now! Despite the career change, I haven't fully abandoned my video production background and still freelance and create videos on the side. My creative eye is always the first approach of my code as well as my affinity for making  anything I create accessible and UX/UI friendly. 
 
-Outside of coding, I love to make and listen to music, watch sad movies  (check out my [letterboxd!)](https://letterboxd.com/kwametsunami/), ride bikes, and confidently give wrong answers at bar trivia.   
+Outside of coding, I love to make and listen to music (check out my [last.fm!](https://www.last.fm/user/ryder904), watch sad movies  (check out my [letterboxd!)](https://letterboxd.com/kwametsunami/), ride bikes, and confidently give wrong answers at bar trivia.   
   
 
 - 🌱 I’m currently learning canvas.js and expanding my CSS animation and UX knowledge  
