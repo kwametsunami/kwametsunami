@@ -22,13 +22,8 @@ Outside of coding, I love to make and listen to music (check out my [last.fm!](h
 
 <br/>  
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
 </td><td valign="top" width="100%">
+## My Skill Set  
 
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
